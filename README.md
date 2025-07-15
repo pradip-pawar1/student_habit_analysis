@@ -1,4 +1,4 @@
-# Student Habit Performance Analysis
+# Student Habit VS Academic Performance Analysis
 
 ## ✅ Project Overview
 
@@ -16,7 +16,6 @@ I collected and analyzed practical data to understand how habits impact producti
 
 - `student_habit_analysis.ipynb` — Main notebook with code, plots, and insights.
 - `student_habits_performance.csv` — The dataset.
-- `Student habit insights.pptx` - Visual insights of project
 
 ## ✅ What I Learned
 
@@ -35,9 +34,8 @@ I collected and analyzed practical data to understand how habits impact producti
 ## ✅ Next Steps
 
 - Expand this project with more student samples.
-- Add a PPT version to strengthen my data storytelling skills.
 - Publish my work on Kaggle & GitHub as part of my real-world portfolio.
 
 ---
 
-**Pradip | Self-Taught Data Science Learner | Jai Shree Ram**
+**Pradip | Self-Taught Data Science Learner**
