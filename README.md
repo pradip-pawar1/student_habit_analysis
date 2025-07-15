@@ -16,6 +16,8 @@ I collected and analyzed practical data to understand how habits impact producti
 
 - `student_habit_analysis.ipynb` — Main notebook with code, plots, and insights.
 - `student_habits_performance.csv` — The dataset.
+- `Student habit insights.pptx` — Visual insights of project
+- `README.md` — Information about project 
 
 ## ✅ What I Learned
 
