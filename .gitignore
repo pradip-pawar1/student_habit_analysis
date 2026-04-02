@@ -5,3 +5,6 @@ __pycache__/
 .venv/
 
 .virtual_documents/
+
+# Add ppt file to ignore
+Student habit insights.pptx
